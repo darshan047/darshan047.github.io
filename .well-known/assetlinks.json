@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.peacocktv.peacockandroid",
+    "sha256_cert_fingerprints":["13:86:3B:32:58:1D:02:DD:1A:97:FF:D8:D9:27:34:03:53:78:9B:40:D4:B9:93:55:2C:8E:3B:7F:C3:10:47:36"]
+  }
+}]
